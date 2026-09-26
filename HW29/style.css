@@ -1,0 +1,29 @@
+/*Так мне показалось лучше*/
+body {
+    text-align: center;
+}
+
+ul {
+    font-size: 45px;
+    width: 380px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+button {
+    margin: 0 auto;
+    height: 40px;
+    padding-top: 5px;
+}
+input {
+    font-size: 20px;
+    height: 35px;
+}
